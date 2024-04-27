@@ -6,8 +6,9 @@ body {
   background-color: #000000;
   font-family: "Raleway", sans-serif;
 }
+/* agrega margen al titulo */
 header h1 {
-  height: 73px;
+  height: 70px;
   margin-top: 7px;
 }
 h1 {
@@ -27,7 +28,6 @@ header img {
   width: 100vw;
   height: auto;
 }
-
 .desc-section {
   color: #ffffff;
   display: flex;
@@ -36,6 +36,7 @@ header img {
   justify-content: center;
   align-items: center;
 }
+
 .desc-section p {
   font-size: 16px;
   font-weight: 300;
